@@ -4651,3 +4651,15 @@ input, select, textarea {
 		}
 
 	}
+
+/* Profile picture  */
+
+.avatar{
+	width: 200px;
+	height: 200px;
+	background-image: url('images/avatar.jpg');
+	background-size: cover;
+	display: block;
+	border-radius: 50%;
+    border: solid white 4px;
+   }
